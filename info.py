@@ -15,7 +15,7 @@ PORT = environ.get("PORT", "8080")
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '23640300'))
 API_HASH = environ.get('API_HASH', 'b43066e201bfc457ad566e623fd74dab')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5556712506:AAFbpiALn-NU6x5yolAKvuz_85tyjmEMD-A")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6243903054:AAGxLIvpbt_v9oySQG2FZ14HVvfSO2cI6I4")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
