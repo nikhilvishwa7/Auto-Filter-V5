@@ -13,7 +13,7 @@ logging.getLogger("imdbpy").setLevel(logging.ERROR)
 
 from pyrogram.errors import BadRequest, Unauthorized
 from datetime import datetime
-from pytz import timezone
+pytz import timezone
 from pyrogram import Client, __version__
 from pyrogram.raw.all import layer
 from database.ia_filterdb import Media
